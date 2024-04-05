@@ -71,4 +71,9 @@ public class MarkerOptions : ListableEntityOptionsBase
     /// Rollover text
     /// </summary>
     public string Title { get; set; }
+
+     /// <summary>
+    /// InfoContent text
+    /// </summary>
+    public string InfoContent { get; set; }
 }
